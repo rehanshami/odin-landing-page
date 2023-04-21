@@ -5,10 +5,23 @@ body {
     padding: 0;
 }
 
-.logo {
+.header {
     display: flex;
+    justify-content: space-between;
+    padding: 16px;
 }
+
+.logo {
+
+
+}
+    
 
 .links {
     display: flex;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
 }
