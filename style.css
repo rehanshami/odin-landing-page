@@ -1,0 +1,14 @@
+/* Style sheet for landing page */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    display: flex;
+}
+
+.links {
+    display: flex;
+}
